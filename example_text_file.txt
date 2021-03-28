@@ -1,0 +1,24 @@
+Physicists have uncovered a potential flaw in a theory that explains how the building blocks of the Universe behave.
+The Standard Model (SM) is the best theory we have to explain the fine-scale workings of the world around us.
+But we've known for some time that the SM is a stepping stone to a more complete understanding of the cosmos.
+Hints of unexpected behaviour by a sub-atomic particle called the beauty quark could expose cracks in the foundations of this decades-old theory.
+The findings emerged from data collected by researchers working at the Large Hadron Collider (LHC). It's a giant machine built in a 27km-long circular tunnel underneath the French-Swiss border. It smashes together beams of proton particles to probe the limits of physics as we know it.
+The mystery behaviour by the beauty quark may be the result of an as-yet undiscovered sub-atomic particle that is exerting a force.
+But the physicists stress that more analysis and data is needed to confirm the results.
+Dr Mitesh Patel, of Imperial College London, told BBC News: "We were actually shaking when we first looked at the results, we were that excited. Our hearts did beat a bit faster.
+"It's too early to say if this genuinely is a deviation from the Standard Model but the potential implications are such that these results are the most exciting thing I've done in 20 years in the field. It has been a long journey to get here."
+The Standard Model describes all the known fundamental particles that make up the Universe as well as the forces they interact with.
+But it cannot explain some of the biggest mysteries in modern physics, such as dark matter or the nature of gravity. Physicists know that it must eventually be replaced by a more advanced framework.
+The Large Hadron Collider was built to discover physics beyond the Standard Model. So if the results from LHCb are confirmed they would represent an important discovery.
+The LHCb produces sub-atomic particles called "beauty quarks", which are not usually found in nature but are produced at the LHC. Sub-atomic particles undergo a process known as decay, where one particle transforms into several, less massive ones.
+According to the Standard Model, beauty quarks should decay into equal numbers of electron and muon particles. Instead, the process yields more electrons than muons.
+One possible explanation is that an as-yet undiscovered particle known as a leptoquark was involved in the decay process and made it easier to produce electrons.
+Dr Paula Alvarez Cartelle, of the University of Cambridge, was one of the scientific leaders behind the finding. She commented: "This new result offers tantalising hints of the presence of a new fundamental particle or force that interacts differently with these... particles.
+"The more data we have, the stronger this result has become. This measurement is the most significant in a series of LHCb results from the past decade that all seem to line up - and could all point towards a common explanation.
+"The results have not changed, but their uncertainties have shrunk, increasing our ability to see possible differences with the Standard Model."
+In particle physics, the gold standard for a discovery is a level called five-sigma, in which there is a one in 3.5 million chance of the result being a fluke.
+The measurement from LHCb is three-sigma - meaning there is roughly a one in 1,000 chance that the measurement is a statistical coincidence. So people should not get carried away by these findings, according to team leader Prof Chris Parkes, from the University of Manchester.
+"We may be on the road to a new era of physics, but if we are, then we are still relatively early on that road at this point. We have seen results of this significance come and go before, so we should be cautious as well as excited," he said.
+But if confirmed by further analysis and data when the LHCb restarts next year, it could be one of the biggest recent discoveries in physics, according to Dr Konstantinos Petridis, from the University of Bristol.
+"The discovery of a new force in nature is the holy grail of particle physics. Our current understanding of the constituents of the Universe fall remarkably short - we do not know what 95% of the Universe is made of or why there is such a large imbalance between matter and anti-matter."
+The results have been presented for publication in Nature Physics.
