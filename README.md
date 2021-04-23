@@ -10,6 +10,6 @@ only runs on linux terminal since it uses posix thread
 
 to compile program type g++ project.cpp -lpthread
 
-To run the program on linux terminal do ./a.out <filename>
+To run the program on linux terminal do ./a.out filename
 
 
